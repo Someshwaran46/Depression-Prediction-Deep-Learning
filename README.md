@@ -1,9 +1,7 @@
 # 🧠 Predicting Depression from Mental Health Survey Data using Deep Learning
 
----
 ## 📄 Project Overview
 This project aims to predict whether an individual may experience depression based on demographic information, lifestyle choices, and medical history. Using a custom deep learning model built with PyTorch and deployed via Streamlit, the solution provides real-time mental health assessments.
----
 
 ## 💡 Skills You Will Learn
 - Building deep learning models using PyTorch.
@@ -12,7 +10,6 @@ This project aims to predict whether an individual may experience depression bas
 - Creating an interactive Streamlit app for real-time predictions.
 - Deploying applications on AWS (EC2) or Streamlit Cloud.
 
----
 
 ## Folder Structure
 ```
@@ -29,17 +26,12 @@ Depression-Prediction-Deep-learning/
 ├── page.py
 └── app.py
 ```
----
 
 ## 🌍 Domain
 **Mental Health** and **Healthcare AI**
 
----
-
 ## ❓ Problem Statement
 Develop a model that can predict the likelihood of depression using survey responses. The system must handle healthcare data challenges such as bias, noise, and demographic diversity, while offering fair and accurate predictions.
-
----
 
 ## 💼 Business Use Cases
 
@@ -54,8 +46,6 @@ Track employee mental well-being and offer proactive support.
 
 ### 🏛️ Government and NGOs
 Identify at-risk populations and allocate resources effectively for mental health outreach.
-
----
 
 ## ⚙️ Approach
 
@@ -78,20 +68,14 @@ Identify at-risk populations and allocate resources effectively for mental healt
 - Build a Streamlit app to collect user input and predict outcomes.
 - Deploy on AWS EC2 (or Streamlit Cloud).
 
----
-
 ## 📈 Evaluation Metrics
 - **Accuracy** – Correct predictions across all samples.
 - **Precision** – True positive rate over predicted positives.
 - **Recall** – True positive rate over actual positives.
 - **F1-Score** – Harmonic mean of precision and recall.
 
----
-
 ## 🖥️ Streamlit Application
 A web interface allows users to enter lifestyle and health data to receive a prediction for depression risk in real-time.
-
----
 
 ## 🚀 AWS Deployment Guide
 
